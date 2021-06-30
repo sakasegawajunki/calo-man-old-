@@ -17,7 +17,7 @@
 食事を取る時や運動をする時、カロリー収支を確認する時
 
 ### ER図
-![Untitled Diagram.pdf](https://github.com/sakasegawajunki/calo-man/files/6739066/Untitled.Diagram.pdf)
+[Untitled.Diagram (1).pdf](https://github.com/sakasegawajunki/calo-man/files/6739090/Untitled.Diagram.1.pdf)
 
 
 ## チャレンジ要素一覧
