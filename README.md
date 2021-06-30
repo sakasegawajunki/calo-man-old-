@@ -1,5 +1,4 @@
-# calo-man
-（calorie-management）
+# calo-man　（calorie-management）
 
 ## サイト概要
 毎日の食事によるカロリー摂取と日常生活や運動等によるカロリー消費を記録し、トータルのカロリー収支が明確になることで、簡単に体重管理が出来るアプリです。
