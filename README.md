@@ -1,5 +1,3 @@
-# README
-
 # calo-man
 （calorie-management）
 
